@@ -34,7 +34,11 @@ After resolving the issue, I continued to apply the **COUNTIFS** function to the
 
 ## Results
 
+![alt text](resources/Theater_Outcomes_vs_Launch.png)
+
 Based on the Outcomes Based on Launch Date graph, the months of January, March, and September have similar successful and failed outcomes based on the graph. The graph spikes upward on the month of May with regards to successful outcomes. May is the best month of the year to launch a theater campaign. December seems to be the worst month to launch a campaign. The amount of successful and failed campaigns is roughly the same during the month of December since both lines representing the successful and failed campaigns appear to connect. As a result, the rate of success is the lowest during the month of December.
+
+![alt text](resources/Outcomes_vs_Goals.png)
 
 If we look at the Outcomes based on Goals graph, the success rate is initially higher than the rate of failed outcomes for plays with goals between $0-$14,999, up until the goals reach $15,000-$19,000. At this point, the lines for success rate and failure rate intersect. The intersection point shows that the rate of success and the rate of failure are the same, and as the goal amounts get higher past this point, the failure rate becomes more than the success rate. The failure rate is higher than the success rate until we reach the interval goals between $35,000-$39,000 and $40,000-$44,999. As the goals increase past that point, the failure rate overtakes the success rate once again. 
 
