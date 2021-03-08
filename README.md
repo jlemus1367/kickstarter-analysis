@@ -7,6 +7,9 @@ Louise is a playwright who is passionate about creating theatrical productions t
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+To create the Outcomes Based on Launch Date graph, I selected all the data in the Kickstarter sheet, and then I navigated to the “insert pivot chart” option on the top ribbon of excel. I specified the pivot table fields by dragging the outcomes to the columns section, date-created conversion to the rows section, and the outcomes to the values section. I also added the years and parent category to the filters section to specify the data of interest. I applied theater to the parent category filter to only view the successful, failed, canceled, and totals for theater campaigns. The chart updated simultaneously to reflect the changes in the filter option. These are the resulting table and line graph:
+
+<img src = "resources/pivot.png" width = 300> <img src = "resources/Theater_Outcomes_vs_Launch.png" width = 400>
 
 ### Analysis of Outcomes Based on Goals
 
